@@ -13,3 +13,18 @@ C:\Users\gokha\source\repos\MethodsUygulama\obj\Debug\net7.0\refint\MethodsUygul
 C:\Users\gokha\source\repos\MethodsUygulama\obj\Debug\net7.0\MethodsUygulama.pdb
 C:\Users\gokha\source\repos\MethodsUygulama\obj\Debug\net7.0\MethodsUygulama.genruntimeconfig.cache
 C:\Users\gokha\source\repos\MethodsUygulama\obj\Debug\net7.0\ref\MethodsUygulama.dll
+C:\Users\gokha\source\repos\OOP Uygulaması\bin\Debug\net7.0\MethodsUygulama.exe
+C:\Users\gokha\source\repos\OOP Uygulaması\bin\Debug\net7.0\MethodsUygulama.deps.json
+C:\Users\gokha\source\repos\OOP Uygulaması\bin\Debug\net7.0\MethodsUygulama.runtimeconfig.json
+C:\Users\gokha\source\repos\OOP Uygulaması\bin\Debug\net7.0\MethodsUygulama.dll
+C:\Users\gokha\source\repos\OOP Uygulaması\bin\Debug\net7.0\MethodsUygulama.pdb
+C:\Users\gokha\source\repos\OOP Uygulaması\obj\Debug\net7.0\MethodsUygulama.csproj.AssemblyReference.cache
+C:\Users\gokha\source\repos\OOP Uygulaması\obj\Debug\net7.0\MethodsUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\source\repos\OOP Uygulaması\obj\Debug\net7.0\MethodsUygulama.AssemblyInfoInputs.cache
+C:\Users\gokha\source\repos\OOP Uygulaması\obj\Debug\net7.0\MethodsUygulama.AssemblyInfo.cs
+C:\Users\gokha\source\repos\OOP Uygulaması\obj\Debug\net7.0\MethodsUygulama.csproj.CoreCompileInputs.cache
+C:\Users\gokha\source\repos\OOP Uygulaması\obj\Debug\net7.0\MethodsUygulama.dll
+C:\Users\gokha\source\repos\OOP Uygulaması\obj\Debug\net7.0\refint\MethodsUygulama.dll
+C:\Users\gokha\source\repos\OOP Uygulaması\obj\Debug\net7.0\MethodsUygulama.pdb
+C:\Users\gokha\source\repos\OOP Uygulaması\obj\Debug\net7.0\MethodsUygulama.genruntimeconfig.cache
+C:\Users\gokha\source\repos\OOP Uygulaması\obj\Debug\net7.0\ref\MethodsUygulama.dll

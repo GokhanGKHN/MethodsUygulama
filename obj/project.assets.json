@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gokha\\source\\repos\\MethodsUygulama\\MethodsUygulama.csproj",
+      "projectUniqueName": "c:\\Users\\gokha\\source\\repos\\OOP Uygulaması\\MethodsUygulama.csproj",
       "projectName": "MethodsUygulama",
-      "projectPath": "C:\\Users\\gokha\\source\\repos\\MethodsUygulama\\MethodsUygulama.csproj",
+      "projectPath": "c:\\Users\\gokha\\source\\repos\\OOP Uygulaması\\MethodsUygulama.csproj",
       "packagesPath": "C:\\Users\\gokha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gokha\\source\\repos\\MethodsUygulama\\obj\\",
+      "outputPath": "c:\\Users\\gokha\\source\\repos\\OOP Uygulaması\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gokha\\AppData\\Roaming\\NuGet\\NuGet.Config",
